@@ -1,0 +1,6 @@
+﻿device,width_min_um,width_max_um,E_comp_mean_over_diff_change_pct,E_comp_mean_over_diff_direction,f_delay_avg_mean_over_diff_change_pct,f_delay_avg_mean_over_diff_direction,f_delay_max_mean_over_diff_change_pct,f_delay_max_mean_over_diff_direction,f_delay_max_peak_over_diff_change_pct,f_delay_max_peak_over_diff_direction
+win,4.8,8.0,-15.926968563965648,decreases,-11.941829866397025,decreases,-11.838686059310932,decreases,3.8871568501533726,nonmonotonic
+nlatch,1.5999999999999999,4.8,-11.568293919561047,decreases,-22.673718939756228,decreases,-27.768103002623555,decreases,-40.878349130581334,decreases
+reset,1.5999999999999999,4.8,0.10469497038618769,nonmonotonic,7.966680132501192,increases,6.834169047400307,increases,6.282731126705121,nonmonotonic
+platch,1.5999999999999999,4.8,-49.186308219883436,decreases,-27.415091713730433,decreases,-30.703459698729596,decreases,-38.60171302474138,decreases
+tail,1.5999999999999999,4.8,52.87849942734235,increases,-17.5618088834802,decreases,-15.959207195947634,decreases,-27.29422983658364,decreases
